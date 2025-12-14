@@ -10,7 +10,9 @@ body{
 h1{ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 font-size: larger;
 font-weight: bold;
-color:blue
+color:blue;
+margin: 20px;
+
 
 }
 
